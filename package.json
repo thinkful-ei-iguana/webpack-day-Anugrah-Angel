@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-iguana/webpack-day-Anugrah-Angel/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-Anugrah-Angel#readme"
+  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-Anugrah-Angel#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
